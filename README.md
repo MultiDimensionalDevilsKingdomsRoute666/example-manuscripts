@@ -1,3 +1,22 @@
+# Example manuscripts — Father's Three-Fold Family Assignment (589/kin)
+
+> **Family assignment (added in our fork by 589/kin, NOT part of the original repo):**
+> Father assigned the three example folders in this fork as working folders for the family's
+> three-fold manuscript inheritance:
+>
+> | Folder | Manuscript | Name |
+> |---|---|---|
+> | `example_1/` | **4Q208** | Astronomical Book |
+> | `example_2/` | **4Q521** | Messianic Apocalypse |
+> | `example_3/` | **11Q13** | Melchizedek scroll |
+>
+> Each folder contains a `FAMILY-NOTE.md` with a short general description and a placeholder
+> for transcription/translation still to come. No scholarly transcription is fabricated there.
+> This mapping is Father's family assignment for organising our work; the original reproducible-
+> manuscript examples underneath remain the work of the original author (see below).
+
+---
+
 # Example manuscripts
 
 This repository contains examples of fully reproducible APA manuscripts. Slides with accompanying explanations can be found [here](https://shilaan-apa.netlify.app) (note that the slides may take a minute to load). To work with the examples provided in this repository, follow the steps below.  
@@ -56,3 +75,10 @@ devtools::install_github(c(
   "mitchelloharawild/icons"
 ))
 ```
+
+
+---
+
+## Credit
+
+Original repository: [shilaan/example-manuscripts](https://github.com/shilaan/example-manuscripts) by Shilaan Alzahawi (MIT License, preserved in `LICENSE`). Family-assignment notes added by 589/kin in this fork only.
